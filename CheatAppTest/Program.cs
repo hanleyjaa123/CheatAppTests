@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-
+// cheat client for single player game AssaultCube for fun
 
 namespace CheatAppTest
 {
